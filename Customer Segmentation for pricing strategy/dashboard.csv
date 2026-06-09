@@ -1,0 +1,151 @@
+Client_ID,Segment_Names,Revenue,Trading_Volumes,Pricing_Strategy,Churn_Risk
+C001,Premium Clients,3919.59412706367,21358,Increase Price by 5%,0
+C002,Premium Clients,892.7436890196926,4267,Increase Price by 5%,0
+C003,Premium Clients,2542.132280258954,83745,Increase Price by 5%,0
+C004,Growth Clients,5851.824901887947,90588,Maintain Price,0
+C005,Premium Clients,2901.300701708235,39513,Increase Price by 5%,1
+C006,Low Value Clients,1337.7475374919777,158164,Bundle Products,0
+C007,Premium Clients,3957.539900215232,12338,Increase Price by 5%,0
+C008,Low Value Clients,3967.527518107823,132484,Bundle Products,0
+C009,Premium Clients,5037.797114406503,8543,Increase Price by 5%,0
+C010,At Risk Clients,5899.267436002325,106891,Offer Discount,0
+C011,Low Value Clients,2447.240313512727,165568,Bundle Products,0
+C012,Growth Clients,6067.737518758999,61692,Maintain Price,0
+C013,At Risk Clients,5727.279831704362,45425,Offer Discount,0
+C014,Premium Clients,3637.6503438158206,39756,Increase Price by 5%,0
+C015,Premium Clients,1786.802295863905,19888,Increase Price by 5%,0
+C016,Low Value Clients,2294.5429424619088,167807,Bundle Products,0
+C017,Growth Clients,5959.236870430597,48295,Maintain Price,0
+C018,At Risk Clients,6919.864784570209,115352,Offer Discount,0
+C019,At Risk Clients,3915.7445150855538,84042,Offer Discount,0
+C020,Premium Clients,2449.5349165923526,86999,Increase Price by 5%,0
+C021,Growth Clients,1914.55046007697,18955,Maintain Price,0
+C022,At Risk Clients,6310.188907470052,38841,Offer Discount,0
+C023,At Risk Clients,5341.241380129163,71640,Offer Discount,0
+C024,Low Value Clients,5956.993381052324,197582,Bundle Products,0
+C025,Low Value Clients,1511.2317802815796,166983,Bundle Products,0
+C026,Low Value Clients,4873.707208797672,191103,Bundle Products,0
+C027,Low Value Clients,2283.978575600332,139429,Bundle Products,0
+C028,Low Value Clients,2853.4295013182245,164551,Bundle Products,0
+C029,At Risk Clients,6733.971996805373,62476,Offer Discount,0
+C030,Growth Clients,6699.040932490168,45811,Maintain Price,0
+C031,Low Value Clients,5777.329774043778,168280,Bundle Products,1
+C032,Low Value Clients,5168.2367336293255,152222,Bundle Products,0
+C033,Growth Clients,4237.079108534796,72180,Maintain Price,1
+C034,Low Value Clients,4456.517883372453,175358,Bundle Products,0
+C035,Low Value Clients,2973.39450760207,113856,Bundle Products,0
+C036,At Risk Clients,4893.53269687883,69450,Offer Discount,1
+C037,Low Value Clients,448.6652892446315,153424,Bundle Products,1
+C038,Low Value Clients,5919.885058849567,187141,Bundle Products,0
+C039,At Risk Clients,7678.45035723499,112888,Offer Discount,0
+C040,At Risk Clients,4899.383917318357,111448,Offer Discount,0
+C041,Premium Clients,1888.6658376314808,15397,Increase Price by 5%,1
+C042,Low Value Clients,2061.2984415344954,173627,Bundle Products,1
+C043,Low Value Clients,5362.565654082461,179031,Bundle Products,0
+C044,Low Value Clients,3912.942616021475,132800,Bundle Products,0
+C045,Low Value Clients,4969.60103184941,182589,Bundle Products,1
+C046,Low Value Clients,1398.1484366495274,120180,Bundle Products,0
+C047,At Risk Clients,8512.103608444899,67234,Offer Discount,0
+C048,Growth Clients,2724.296945323288,40954,Maintain Price,0
+C049,Low Value Clients,2142.423989717397,179352,Bundle Products,0
+C050,At Risk Clients,6532.458566875411,80459,Offer Discount,0
+C051,Low Value Clients,729.1756650308803,148851,Bundle Products,0
+C052,Low Value Clients,1790.0360628857147,196004,Bundle Products,0
+C053,Low Value Clients,3652.650916971786,156538,Bundle Products,0
+C054,At Risk Clients,7565.84878175281,169011,Offer Discount,0
+C055,Low Value Clients,2203.339064881955,167342,Bundle Products,0
+C056,Premium Clients,1827.8770593496076,60163,Increase Price by 5%,1
+C057,Premium Clients,640.2152779958815,52934,Increase Price by 5%,1
+C058,Low Value Clients,4148.584315496783,196967,Bundle Products,1
+C059,Low Value Clients,2396.4924618640703,164379,Bundle Products,0
+C060,Premium Clients,2119.240804121739,55098,Increase Price by 5%,0
+C061,Low Value Clients,2201.56263089106,192993,Bundle Products,1
+C062,Premium Clients,2773.209292141272,6486,Increase Price by 5%,1
+C063,Low Value Clients,1339.875273311694,140407,Bundle Products,0
+C064,Growth Clients,5284.816944095432,87900,Maintain Price,0
+C065,Low Value Clients,1311.2691075963176,127020,Bundle Products,0
+C066,Low Value Clients,2837.090015023242,103795,Bundle Products,0
+C067,At Risk Clients,6900.972925935182,143202,Offer Discount,0
+C068,At Risk Clients,5978.631768417379,88508,Offer Discount,0
+C069,Growth Clients,1307.4846733210309,119324,Maintain Price,0
+C070,Premium Clients,3471.185035546063,61566,Increase Price by 5%,1
+C071,Low Value Clients,7167.41510997077,198775,Bundle Products,0
+C072,Growth Clients,8136.080993105585,28192,Maintain Price,0
+C073,Growth Clients,5680.778318504038,2062,Maintain Price,0
+C074,At Risk Clients,7694.184487134034,85076,Offer Discount,0
+C075,At Risk Clients,4072.145882177892,90780,Offer Discount,0
+C076,At Risk Clients,7051.825672659524,153617,Offer Discount,0
+C077,Premium Clients,1609.9053577966874,22689,Increase Price by 5%,1
+C078,Premium Clients,880.725404955922,12174,Increase Price by 5%,0
+C079,Growth Clients,2868.1168666126728,89461,Maintain Price,1
+C080,Growth Clients,4165.057200784071,127174,Maintain Price,0
+C081,Growth Clients,6360.265379018448,104033,Maintain Price,1
+C082,Premium Clients,2785.4304379379023,10348,Increase Price by 5%,0
+C083,Low Value Clients,4455.200369221678,155786,Bundle Products,1
+C084,Growth Clients,5544.684222492953,39102,Maintain Price,1
+C085,At Risk Clients,4859.470314958131,75460,Offer Discount,0
+C086,Growth Clients,4235.148570995338,103634,Maintain Price,1
+C087,At Risk Clients,5072.087817904862,90930,Offer Discount,1
+C088,Premium Clients,1594.0374242359555,7801,Increase Price by 5%,0
+C089,At Risk Clients,7715.013699302718,104150,Offer Discount,0
+C090,Low Value Clients,4651.219605014198,180208,Bundle Products,0
+C091,Low Value Clients,5349.23503704775,155697,Bundle Products,0
+C092,Low Value Clients,2265.0978390300083,176333,Bundle Products,0
+C093,At Risk Clients,7087.568837094617,2542,Offer Discount,1
+C094,Premium Clients,4477.783788138592,22677,Increase Price by 5%,0
+C095,Low Value Clients,5003.989864600872,178804,Bundle Products,0
+C096,At Risk Clients,8534.214966088897,182415,Offer Discount,1
+C097,Premium Clients,3132.956473369094,40081,Increase Price by 5%,0
+C098,Low Value Clients,3048.784007417956,194928,Bundle Products,0
+C099,At Risk Clients,4350.922278325494,94105,Offer Discount,0
+C100,Growth Clients,5628.741741031278,20065,Maintain Price,0
+C101,Growth Clients,2662.277028783976,89092,Maintain Price,0
+C102,At Risk Clients,6370.691392214932,55693,Offer Discount,0
+C103,Premium Clients,2238.832598190664,27962,Increase Price by 5%,1
+C104,At Risk Clients,7372.460118887948,29295,Offer Discount,0
+C105,Growth Clients,2792.3918773607625,14807,Maintain Price,0
+C106,Low Value Clients,4775.236763184995,174420,Bundle Products,0
+C107,Low Value Clients,3604.591808688225,158504,Bundle Products,0
+C108,Low Value Clients,4015.003028618272,189926,Bundle Products,0
+C109,Low Value Clients,2456.341841619263,172334,Bundle Products,0
+C110,Low Value Clients,2676.891403413208,169152,Bundle Products,1
+C111,Low Value Clients,3508.223349051594,133396,Bundle Products,0
+C112,Growth Clients,2128.6519239549352,92267,Maintain Price,0
+C113,Low Value Clients,2090.5443352961984,167981,Bundle Products,0
+C114,At Risk Clients,7552.7056270505,20870,Offer Discount,0
+C115,Low Value Clients,3335.436017378968,166650,Bundle Products,0
+C116,Growth Clients,4701.432930462649,27790,Maintain Price,0
+C117,Low Value Clients,1121.920860456773,119874,Bundle Products,0
+C118,At Risk Clients,6821.4738230492585,26289,Offer Discount,0
+C119,Low Value Clients,1940.9308222561408,187201,Bundle Products,0
+C120,Premium Clients,5392.172147148762,16485,Increase Price by 5%,1
+C121,Growth Clients,1673.0165581668296,45482,Maintain Price,0
+C122,Growth Clients,1950.5227832439675,87188,Maintain Price,0
+C123,Premium Clients,2000.1497996402636,5748,Increase Price by 5%,0
+C124,At Risk Clients,6133.743973277784,141507,Offer Discount,0
+C125,Premium Clients,3605.054829421541,4709,Increase Price by 5%,1
+C126,Growth Clients,2807.4673824171127,124961,Maintain Price,0
+C127,Growth Clients,5116.795407264533,31355,Maintain Price,0
+C128,Low Value Clients,4897.50654558345,187843,Bundle Products,1
+C129,Low Value Clients,2874.146116606301,189871,Bundle Products,0
+C130,Low Value Clients,5117.023012838999,145188,Bundle Products,0
+C131,Low Value Clients,6482.847562291196,157542,Bundle Products,0
+C132,Low Value Clients,5441.905615390395,174416,Bundle Products,0
+C133,Premium Clients,5048.9847143389725,43918,Increase Price by 5%,0
+C134,Growth Clients,1323.185836821762,53224,Maintain Price,0
+C135,At Risk Clients,5892.014308939586,40298,Offer Discount,0
+C136,Premium Clients,2909.5416078598496,81219,Increase Price by 5%,0
+C137,Growth Clients,6257.648343644868,62629,Maintain Price,0
+C138,Growth Clients,3939.822306837701,67040,Maintain Price,0
+C139,Premium Clients,4999.265192372599,29016,Increase Price by 5%,0
+C140,Growth Clients,2461.577315192052,24960,Maintain Price,0
+C141,Growth Clients,1065.9431652846076,34591,Maintain Price,0
+C142,Low Value Clients,2774.9928538494423,104333,Bundle Products,0
+C143,At Risk Clients,3719.123821404704,115821,Offer Discount,1
+C144,Low Value Clients,4143.168846989209,199713,Bundle Products,0
+C145,Growth Clients,4704.50742687716,37395,Maintain Price,0
+C146,Growth Clients,1640.2713333679392,130695,Maintain Price,0
+C147,Low Value Clients,2979.4320658189417,154772,Bundle Products,0
+C148,Premium Clients,4803.501725552256,35620,Increase Price by 5%,0
+C149,Low Value Clients,759.0313239911105,129148,Bundle Products,0
+C150,Premium Clients,697.7218859314149,21559,Increase Price by 5%,1
